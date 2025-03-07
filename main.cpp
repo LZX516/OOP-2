@@ -1,3 +1,4 @@
+//代码开源在 https://github.com/LZX516/OOP-2 ，编译运行说明请移步GitHub查看readme
 #include <iostream>
 #include <string>
 #include <iomanip>
